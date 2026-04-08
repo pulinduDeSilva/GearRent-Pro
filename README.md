@@ -56,7 +56,7 @@ Java Swing desktop application built with layered architecture and MySQL.
 1. Start MySQL server.
 2. Run the queries in SQL_script.sql
 3. Ensure DB is accessible at:
-   - URL: `jdbc:mysql://localhost:3306/gearrent_pro?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC`
+   - URL: `jdbc:mysql://localhost:3306/gearrent_pro`
    - User: `root`
    - Password: add the password to your mySQL DataBase
 
