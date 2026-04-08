@@ -1,0 +1,10 @@
+# Ignore NetBeans build and dist folders inside the subfolder
+GearRentPro/build/
+GearRentPro/dist/
+
+# Ignore private NetBeans settings
+GearRentPro/nbproject/private/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
